@@ -1,4 +1,4 @@
 t3igl
 =====
 
-TYPO3 IGL - Intergration Guidelines
+TYPO3 IGL - Integration Guidelines
