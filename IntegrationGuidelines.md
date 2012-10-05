@@ -9,6 +9,8 @@ This document refers to TYPO3 CMS (i.e. not TYPO3 Neos) and targets Version 6.x 
 Author: Sebastian Michaselsen, sebastian.michaelsen@t3seo.de  
 GitHub: https://github.com/smichaelsen/t3igl/
 
+The Integration Guidelines may intersect or even contradict the official [TYPO3 Coding Guidelines][] in certain points. In these cases this document aims put existing rules to discussion in eventually finally update them.
+
 ## Table of contents
 
 <ol>
@@ -30,3 +32,5 @@ The prefered way to do page templating in TYPO3 is using Fluid.
 ## 4. TypoScript
 
 ## 5. Security
+
+[TYPO3 Coding Guidelines]: http://typo3.org/documentation/document-library/core-documentation/doc_core_cgl/
