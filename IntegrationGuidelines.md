@@ -9,7 +9,7 @@ This document refers to TYPO3 CMS (i.e. not TYPO3 Neos) and targets Version 6.x 
 Author: Sebastian Michaselsen, sebastian.michaelsen@t3seo.de  
 GitHub: https://github.com/smichaelsen/t3igl/
 
-The Integration Guidelines may intersect or even contradict the official [TYPO3 Coding Guidelines][] in certain points. In these cases this document aims put existing rules to discussion in eventually finally update them.
+The Integration Guidelines may intersect or even contradict the official [TYPO3 Coding Guidelines][] in certain points. In these cases this document aims put existing rules to discussion and eventually finally update them.
 
 ## Table of contents
 
