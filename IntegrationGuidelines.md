@@ -6,8 +6,8 @@
 The following guidelines are **not** part of the official TYPO3 documentation but are only a proposal to what might become officially approved rules in the future if this project is adopted well in the TYPO3 community.  
 This document refers to TYPO3 CMS (i.e. not TYPO3 Neos) and targets Version 6.x if not otherwise stated.
 
-Author: Sebastian Michaselsen, sebastian.michaelsen@t3seo.de  
-GitHub: https://github.com/smichaelsen/t3igl/
+Author: Sebastian Michaselsen, <sebastian.michaelsen@t3seo.de>  
+GitHub: <https://github.com/smichaelsen/t3igl/>
 
 The Integration Guidelines may intersect or even contradict the official [TYPO3 Coding Guidelines][] in certain points. In these cases this document aims put existing rules to discussion and eventually finally update them.
 
