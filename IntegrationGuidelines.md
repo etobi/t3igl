@@ -1,22 +1,32 @@
-TYPO3 CMS Integration Guidelines
-============================
+# TYPO3 CMS Integration Guidelines
 
-About this document
-___________________
 
-The following guidelines are not "official" but are only a proposal to what might become officially approved rules in the future if this project is adopted well in the TYPO3 community.  
+### About this document
+
+The following guidelines are **not** part of the official TYPO3 documentation but are only a proposal to what might become officially approved rules in the future if this project is adopted well in the TYPO3 community.  
 This document refers to TYPO3 CMS (i.e. not TYPO3 Neos) and targets Version 6.x if not otherwise stated.
 
 Author: Sebastian Michaselsen, sebastian.michaelsen@t3seo.de  
 GitHub: https://github.com/smichaelsen/t3igl/
 
-Table of contents
-_________________
+## Table of contents
 
 <ol>
 <li>Deployment</li>
+<li>Folder Structure</li>
 <li>Templating</li>
 <li>TypoScript</li>
 <li>Security</li>
-<li>...</li>
 </ol>
+
+
+## 1. Deployment
+
+## 2. Folder Structure
+
+## 3. Templating
+The prefered way to do page templating in TYPO3 is using Fluid.
+
+## 4. TypoScript
+
+## 5. Security
